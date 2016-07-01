@@ -1,5 +1,4 @@
 var request = require( 'request' );
-var token = 'MT3FDBHNTFH4B7QYCCTSPY5EBKIBS6NL';
 
 module.exports = function( audioStream, cb ) {
 	
