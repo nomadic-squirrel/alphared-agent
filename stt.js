@@ -1,4 +1,7 @@
 var request = require( 'request' );
+var config = require( 'config' );
+
+var token = config.get( 'wit_ai_token' );
 
 module.exports = function( audioStream, cb ) {
 	
