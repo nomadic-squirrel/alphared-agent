@@ -1,0 +1,5 @@
+{
+  "agent_name": "007",
+  "slack_webhook": "URL HERE",
+  "wit.api_token": "TOKEN HERE"
+}
