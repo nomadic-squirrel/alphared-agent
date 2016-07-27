@@ -1,5 +1,8 @@
 {
   "agent_name": "007",
   "slack_webhook": "URL HERE",
-  "wit_ai_token": "TOKEN HERE"
+  "slack_channel": "general",
+  "wit_ai_token": "TOKEN HERE",
+  "express_port": 3000,
+  "bot_name": "hubot"
 }

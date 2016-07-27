@@ -1,9 +1,9 @@
 var request = require( 'request' );
 var config  = require( 'config' );
 
-module.exports = function( text ) { 
+module.exports = function( text ) {
 
-  var payload = { 
+  var payload = {
     "text": text,
     "username": config.get( 'agent_name' )
   };
