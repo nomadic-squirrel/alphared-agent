@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/nomadic-squirrel/alphared-agent.git"
   },
-  "author": "",
+  "author": "nomadic-squirrel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nomadic-squirrel/alphared-agent/issues"
